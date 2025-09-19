@@ -4,13 +4,28 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Navigation App
+This Flutter app demonstrates intuitive navigation across multiple screens, derived from Figma designs and built using Flutter's navigation system.
 
-A few resources to get you started if this is your first Flutter project:
+Overview
+Implementation of smooth screen-to-screen navigation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Consistent UI/UX following Figma design principles.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Supports stack-based navigation and routing.
+
+Modular and scalable navigation architecture.
+
+Features
+Multiple screen views and transitions.
+
+Navigation drawer or tab-based navigation (based on your app's design).
+
+Responsive design adaptable to different devices.
+
+Easily extendable navigation logic.
+
+Technology
+Flutter & Dart as the development framework.
+
+Figma as the source for all UI/UX design elements
