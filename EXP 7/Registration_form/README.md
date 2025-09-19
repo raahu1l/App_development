@@ -4,13 +4,28 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Registration Form App
+This Flutter application provides a user-friendly registration form, designed using Figma and implemented with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Overview
+A clean and functional registration form UI based on Figma design.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Collects user details such as name, email, phone number, and address.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Includes form validation for better user experience.
+
+Designed for responsiveness and smooth interaction.
+
+Features
+Text input fields with validation.
+
+Clear layout inspired by Figma prototypes.
+
+Efficient state management for form fields.
+
+Easy customization and extension possible.
+
+Technology
+Flutter & Dart for cross-platform mobile app development.
+
+Figma for UI/UX design and prototyping.
