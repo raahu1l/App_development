@@ -4,13 +4,24 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Flutter Calculator with SQLite Storage
 
-A few resources to get you started if this is your first Flutter project:
+## Overview
+This Flutter app is a basic calculator performing arithmetic operations, with calculation history stored locally using SQLite for persistence.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+- Basic operations: addition, subtraction, multiplication, division.
+- Stores calculation history in a local SQLite database.
+- Easy retrieval and display of past calculations.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup Instructions
+1. Clone the repository.
+2. Run the Flutter app directly (no external database setup needed).
+3. The app manages data storage locally using SQLite.
+
+## Technologies
+- Flutter SDK
+- SQLite (local database)
+
+## Notes
+SQLite provides lightweight, local storage ideal for mobile apps without requiring external servers.
