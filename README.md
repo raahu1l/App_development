@@ -38,7 +38,7 @@ How to Run
 Clone the repository using
 
 bash
-git clone https://github.com/raahu1l/app-development.git
+git clone (https://github.com/raahu1l/App_development.git)
 Navigate to the specific folder you want to run.
 
 Follow the setup instructions provided in each folder’s README.md file.
