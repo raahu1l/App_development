@@ -1,16 +1,48 @@
-# auth_app_fixed
+# 🔐 Auth App (Firebase Authentication)
 
-A new Flutter project.
+A **Flutter authentication app** built with **Firebase** that supports **Google Sign-In**, **Phone Number verification**, and other secure authentication methods.  
+This app demonstrates seamless integration between Flutter and Firebase for modern, secure, and user-friendly authentication flows.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔑 **Firebase Authentication** — Secure user management using Firebase Auth.  
+- 📱 **Phone Number Login** — Sign in using OTP-based phone number verification.  
+- 🌐 **Google Sign-In** — Authenticate users with their Google accounts.  
+- 📤 **Automatic Session Handling** — Stay signed in between sessions.  
+- 🔒 **Logout & Account Management** — Sign out easily or delete account data.  
+- 🎨 **Modern UI** — Clean, responsive Flutter UI with Material Design.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧩 Tech Stack
+
+- **Framework:** [Flutter](https://flutter.dev/)  
+- **Language:** Dart  
+- **Backend:** [Firebase Authentication](https://firebase.google.com/docs/auth)  
+- **Packages Used:**  
+  - `firebase_core`  
+  - `firebase_auth`  
+  - `google_sign_in`  
+  - `fluttertoast` (for success/error messages)  
+  - `provider` / `bloc` (for state management, if applicable)
+
+---
+
+## ⚙️ Installation
+
+Follow these steps to set up and run the app locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/auth_app_fixed.git
+
+# Navigate to project directory
+cd auth_app_fixed
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
