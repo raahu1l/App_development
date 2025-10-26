@@ -1,4 +1,4 @@
-<details>
-  <summary>▶️ Watch Demo Video</summary>
+# Auth app - Demo Video
 
-  <a href="https://drive.google.com/file/d/1fobPTnySL_bwKkrpEt9N3wKy2i1ZX
+[Watch the demo video](https://drive.google.com/file/d/1fobPTnySL_bwKkrpEt9N3wKy2i1ZXWra/view?usp=drivesdk )
+
