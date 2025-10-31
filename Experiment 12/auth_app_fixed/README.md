@@ -39,8 +39,8 @@ Installation
 Clone this repository and install dependencies:
 
 bash
-git clone https://github.com/yourusername/flutter-firebase-auth.git
-cd flutter-firebase-auth
+git clone 
+cd - To the directory
 flutter pub get
 Running the App
 Run on emulator or physical device:
