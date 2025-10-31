@@ -36,7 +36,7 @@ Clone the repo and install dependencies:
 
 bash
 git clone : The repository
-cd react-native-expo-firebase-auth
+cd : To the directory
 npm install
 Running the App
 Launch your app on emulator or device:
