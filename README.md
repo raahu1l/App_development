@@ -79,7 +79,7 @@ Technologies: Flutter, Dart, REST API, Hive/SQLite
 ---
 
 ### 12. Auth App (Firebase Authentication)
-A Flutter app demonstrating **Firebase Authentication** with **Google Sign-In** and **Phone Number verification**.  
+A Flutter , react native - Expo go , Android Studio - java app demonstrating **Firebase Authentication** with **Google Sign-In** and **Phone Number verification**.  
 It provides a complete example of secure authentication flow and user session handling.  
 Features:
 - Firebase Authentication integration  
