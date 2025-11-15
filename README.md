@@ -90,6 +90,20 @@ Features:
 
 Technologies: Flutter, Firebase Auth, Google Sign-In, Dart  
 
+### 14 - MINI PROJECT (Survexus)
+Survexus – Survey Creation App
+A Flutter-based application that allows users to create, manage, and respond to surveys with ease.
+Designed for simplicity, speed, and a smooth user experience.
+
+VIP Gating & Upsell System
+Implements premium feature locking for non-VIP users, with a clear upsell flow to encourage upgrades.
+Ensures controlled feature access and enhances user engagement.
+
+Analytics & Performance Tracking
+Displays visual insights on survey responses, user behavior, and performance metrics.
+Optimized for clarity and quick decision-making.
+
+
 ---
 
 ## 🧠 How to Run
