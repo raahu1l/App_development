@@ -49,7 +49,6 @@ Password:1234
 
 Student Admin
 Email:rahul@gmail.com
-password:1234
 
 VIP users get enhanced analytics
 ✔ In-App AI Chatbot (Groq Llama-3.3-70B)
