@@ -37,6 +37,20 @@ Bar charts, pie charts
 Prevents mixing of analytics from other survey IDs
 Fixes layout visibility and readability issues
 
+**Admin**
+Tracks and search users 
+Activate surveys when created 
+Close/Delete surveys
+Give VIP access to users 
+
+Professor Admin
+Email:vpg@gmail.com
+Password:1234
+
+Student Admin
+Email:rahul@gmail.com
+password:1234
+
 VIP users get enhanced analytics
 ✔ In-App AI Chatbot (Groq Llama-3.3-70B)
 
